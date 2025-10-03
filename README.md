@@ -1,4 +1,3 @@
-Real-Time Face Attendance System Using Machine Learning
 📌 Overview
 This project is a Real-Time Face Attendance System developed using Python, OpenCV, and the face_recognition library. It automates the process of marking attendance by detecting and recognizing faces via webcam and logs the data automatically in a CSV file.
 
