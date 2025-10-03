@@ -50,6 +50,7 @@ Mark Attendance – Logs Name, Date, and Time into Attendance.csv.
 Clone the repository:
 
 git clone https://github.com/SanyaDubey9/face-attendance-system.git
+
 cd face-attendance-system
 
 
@@ -75,6 +76,9 @@ Sanya	2025-08-04	10:32:41
 🌟 Future Enhancements
 
 Integration with SQL databases instead of CSV
+
 Cloud-based storage for centralized attendance
+
 Mobile app for remote access
+
 Mask detection support
